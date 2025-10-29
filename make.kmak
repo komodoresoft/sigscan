@@ -1,0 +1,8 @@
+CC = gcc
+TARGET = sigscan
+
+task build
+  cmd $(CC) -c sigscan.c -I.
+  cmd $(CC) -c file.c -I.
+  cmd $(CC) -c pattern.c -I.
+  cmd $(CC) -o $(TARGET) sigscan.o file.o pattern.o

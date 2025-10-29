@@ -1,0 +1,6 @@
+#ifndef SIGSCAN_CONFIG
+#define SIGSCAN_CONFIG
+
+#define VERSION "1.0"
+
+#endif // SIGSCAN_CONFIG
