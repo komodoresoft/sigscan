@@ -103,7 +103,7 @@ int not_valid_signature(char *signature)
 void version(void)
 {
   printf("%s VERSION %s\n", appname, VERSION);
-  printf("Copyright (c) Komodore. All rights reserved.\n");
+  printf("Copyright (c) Komodore - Marc-Daniel DALEBA. All rights reserved.\n");
   printf("Scan files for binary signatures.\n");
 }
 
