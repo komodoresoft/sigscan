@@ -1,6 +1,6 @@
-# 🔍 scansig - Scan binary files for signature
+# 🔍 sigscan - Scan binary files for signature
 
-**scansig** is a command-line tool to scan binary files for hexadecimal signatures.<br>
+**sigscan** is a command-line tool to scan binary files for hexadecimal signatures.<br>
 You can use it to:
 - Detect specific instruction patterns in executables
 - Locate custom data sequences in binary files  
